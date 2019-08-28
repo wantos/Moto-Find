@@ -1,0 +1,101 @@
+body{
+  width: 100%;
+  height: auto;
+  padding: 12px;
+  margin: 0 auto 0 auto;
+  font-family: sans-serif;
+}
+#navbar2 {
+  text-decoration: none;
+  list-style: none;
+  background-color: white;
+  color: white;
+  width: 100%;
+  height: 70px;
+  padding: 12px;
+  float: right;
+  font-weight: bold;
+
+}
+.navbar-nav{
+  padding: 12px;
+  color: black;
+}
+.bd-example{
+  width: 100%;
+  height: auto;
+
+}
+#about-us{
+  background-color: white;
+  width: 100%;
+  padding: 12px;
+  color: black;
+  text-align: center;
+}
+.h3 {
+  text-align: center;
+}
+#contact-info {
+  text-align: center;
+  width: 100%;
+  height: auto;
+padding: 12px;
+color: black;  
+}
+
+#more-pricing{
+  width: 100%;
+  height: auto;
+  padding: 12px;
+  color: black;
+  padding: 12px;
+}
+
+
+#faq{
+  text-align: center;
+  width: 100%;
+  height: auto;
+  padding: 12px;
+  background-color: #51d0de ;
+  color:  ;
+}
+#services{
+  width: 50%;
+  padding: 12px;
+  float: right;
+}
+#footer{
+  background: white;
+  color: black;
+  padding: 12px;
+  width: 100%;
+  height: auto;
+}
+.page-footer{
+  color: white;
+  background-color: #1F4468;
+}
+.footer-copyright{
+  background-color: #13293F;
+}
+.figure{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.col-lg-4{
+  background-color: #27AAE1;
+}
+.side-foot{
+  float: right;
+  margin: 0 auto;
+  padding: 12px;
+}
+
+.navbar-brand{
+  font-family: 'DM Serif Display', serif;
+  font-size: 30px;
+}
