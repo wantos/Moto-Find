@@ -6,3 +6,7 @@
 ## users being able to search for any car available in the area
 ## programming languages and frameworks used;
 # javascript, html, css, jquery and bootstrap
+##contributors:
+Awor Viola..
+Wantono Emmanuel...
+Jaelle Awori...
